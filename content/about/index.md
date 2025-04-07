@@ -1,0 +1,40 @@
++++
+date = '2025-04-06T10:19:04+02:00'
+title = 'A Propos'
+showAuthor = false
+showDate = false
+showReadingTime = false
+sharingLinks = false
+showZenMode = false
+showRelatedContent = false
++++
+
+Salut et bienvenue sur mon blog! Je m’appelle Lucas Hadey et j’ai 26 ans. Passionné par l’univers de l’administration système et du DevOps, j’aime partager mes connaissances et découvertes à travers ce blog.
+
+![Photo de Lucas Hadey](/about/featured.jpg)
+
+## Compétences
+
+Je maîtrise une variété de technologies et outils que j'ai développées au fil des ans, ce qui me permet de m'adapter à différents environnements et projets. Voici un aperçu de mes compétences :
+
+- **Programmation et Scripting:** Bash, Go
+- **Technologies et frameworks:** API REST, NodeJS, FFmpeg
+- **Base de données:** MongoDB
+- **Systèmes d'exploitation:** Linux: Ubuntu, Debian-based
+- **Conteneurisation:** Docker, Docker-Compose, Snap
+- **Outils et Applications:** Pix4D, AliceVision Meshroom
+- **Blogging:** Hugo
+
+## Passions et Loisirs
+
+Quand je ne suis pas plongé dans le code ou en train de configurer des systèmes, je suis un grand amateur de drones FPV. Que ce soit pour le freestyle ou le racing, j'adore construire, paramétrer et piloter mes drones. C'est une passion qui m'apporte beaucoup de plaisir et de défis techniques.
+
+## Contact
+
+Vous pouvez me retrouver sur :
+
+- [GitHub](https://github.com/ARTSYS-H)
+- [Twitter](https://x.com/Mr_ARTSYS) et [Reddit](https://www.reddit.com/user/Mr_ARTSYS/)
+- [Mail](mailto:hadeylucaspro@gmail.com)
+
+Merci de votre visite et n'hésitez pas à me contacter pour toute question ou collaboration !

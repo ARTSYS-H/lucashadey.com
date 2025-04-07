@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Resume · Lucas Hadey</title>
+
+    <style>
+        img.emoji {
+
+            border-radius: 0;
+
+            float: none !important;
+
+            height: 1em;
+
+            width: 1em;
+
+            margin: 0 .05em 0 .1em;
+
+            vertical-align: -0.1em;
+
+        }
+
+        body {
+
+            padding: 48px;
+
+            background-color: #fafafa;
+
+            max-width: 103rem;
+
+        }
+
+        .page-break {
+
+            margin: 2em 0;
+
+            border-bottom: 1px dashed #AAA;
+
+            border-top: 1px dashed #AAA;
+
+        }
+
+        .page-break:before {
+
+            color: #AAA;
+
+            content: 'Page Break';
+
+            display: block;
+
+            text-align: center;
+
+        }
+    </style>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800;900&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0
+        }
+
+        html {
+            font-size: 8px
+        }
+
+        body {
+            color: #222;
+            font-family: 'Inter', 'Noto Sans SC';
+            font-size: 1.6rem;
+            font-style: normal;
+            font-weight: normal;
+            line-height: 1.5;
+            margin: auto
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-family: 'Inter', 'Noto Sans SC';
+            font-weight: bold
+        }
+
+        h1 {
+            font-size: 3.6rem;
+            font-weight: normal;
+            margin-top: 0;
+            text-align: left
+        }
+
+        h2 {
+            font-size: 2.4rem;
+            margin-top: 1em
+        }
+
+        h3 {
+            font-size: 2rem;
+            margin-top: .5em
+        }
+
+        h4,
+        h5,
+        h6 {
+            font-size: 1.8rem;
+            margin-top: .4em
+        }
+
+        b,
+        strong {
+            font-weight: bold
+        }
+
+        i,
+        em {
+            font-style: italic
+        }
+
+        ul,
+        ol {
+            margin-top: .5em;
+            list-style-type: none
+        }
+
+        ul li:before,
+        ol li:before {
+            content: '-';
+            font-weight: bold;
+            margin-right: .5em
+        }
+
+        h3+ul {
+            margin-top: 0
+        }
+
+        a {
+            color: #2bbc8a;
+            text-decoration: underline
+        }
+
+        code {
+            background-color: rgba(43, 188, 138, 0.25);
+            font-family: inherit
+        }
+
+        pre {
+            font-family: inherit
+        }
+
+        pre code {
+            display: block
+        }
+
+        p {
+            margin-top: .5em
+        }
+
+        p.pull-right {
+            float: right;
+            margin-right: 4px;
+            margin-top: -1.5em;
+            text-align: right
+        }
+
+        h3+p {
+            margin-top: .2em
+        }
+
+        li>p {
+            margin-top: 0
+        }
+
+        table {
+            margin-top: .5em;
+            table-layout: fixed;
+            width: 100%
+        }
+
+        table th,
+        table tr {
+            font-weight: normal
+        }
+
+        table.no-margin {
+            margin: 0 !important
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid #ddd;
+            margin: 1em 0
+        }
+
+        img {
+            border-radius: 4px;
+            float: left;
+            height: 10rem;
+            margin-right: 2rem
+        }
+
+        ::-moz-selection {
+            background-color: rgba(43, 188, 138, 0.2)
+        }
+
+        ::selection {
+            background-color: rgba(43, 188, 138, 0.2)
+        }
+
+        .row.row--section {
+            display: flex
+        }
+
+        .row.row--section .column.column--1-1 {
+            flex: 100%
+        }
+
+        .row.row--section .column.column--1-2 {
+            flex: 66%;
+            padding-right: 3rem
+        }
+
+        .row.row--section .column.column--2-2 {
+            flex: 34%;
+            padding-left: 3rem
+        }
+
+        body {
+            color: #444
+        }
+
+        h1 {
+            color: #222;
+            font-weight: 800;
+            font-size: 4rem
+        }
+
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            color: #222;
+            font-weight: 600
+        }
+
+        h2 {
+            border-bottom: 1px solid #ddd;
+            position: relative;
+            text-transform: uppercase
+        }
+
+        h2:before {
+            background-color: #2bbc8a;
+            bottom: -2px;
+            content: '';
+            height: 3px;
+            left: 0;
+            position: absolute;
+            width: 48px
+        }
+
+        h2+* {
+            margin-top: 2rem
+        }
+
+        b,
+        strong {
+            color: #222;
+            font-weight: 600
+        }
+
+        h1 b,
+        h1 strong {
+            font-weight: 900
+        }
+
+        h2 b,
+        h2 strong,
+        h3 b,
+        h3 strong,
+        h4 b,
+        h4 strong,
+        h5 b,
+        h5 strong,
+        h6 b,
+        h6 strong {
+            font-weight: 800
+        }
+
+        a b,
+        a strong {
+            font-weight: 800
+        }
+
+        ul {
+            padding-left: 12px
+        }
+
+        ul li {
+            list-style-type: none;
+            position: relative
+        }
+
+        ul li:before {
+            color: #2bbc8a;
+            font-family: 'Inter';
+            font-weight: 600;
+            content: '•';
+            left: -12px;
+            position: absolute
+        }
+
+        a {
+            color: #222;
+            font-weight: 600;
+            text-decoration: underline
+        }
+
+        code {
+            background-color: rgba(43, 188, 138, 0.2) !important;
+            border-radius: 2px;
+            color: #222;
+            font-weight: 500;
+            padding: 0 4px
+        }
+
+        hr {
+            border-top: 1px solid #ddd
+        }
+    </style>
+
+    <link
+        href="data:text/css,%3Ais(%5Bid*%3D'google_ads_iframe'%5D%2C%5Bid*%3D'taboola-'%5D%2C.taboolaHeight%2C.taboola-placeholder%2C%23credential_picker_container%2C%23credentials-picker-container%2C%23credential_picker_iframe%2C%5Bid*%3D'google-one-tap-iframe'%5D%2C%23google-one-tap-popup-container%2C.google-one-tap-modal-div%2C%23amp_floatingAdDiv%2C%23ez-content-blocker-container)%20%7Bdisplay%3Anone!important%3Bmin-height%3A0!important%3Bheight%3A0!important%3B%7D"
+        rel="stylesheet" type="text/css">
+</head>
+
+
+
+<body>
+
+    <div class="row row--section">
+
+
+
+        <div class="column column--1-1">
+
+            <h1>Lucas Hadey</h1>
+
+            <p>Administrateur système passionné et autodidacte. Toujours curieux et en quête de nouvelles découvertes,
+                je partage régulièrement mes connaissances sur un blog dédié, où j'explore des astuces pratiques et des
+                réflexions sur les systèmes d'exploitation. Prêt à développer mes compétences et à mettre ma polyvalence
+                au service de nouvelles opportunités professionnelles.</p>
+
+            <h2>Expériences Professionnelles</h2>
+
+            <h3>Ouvrier Viticole</h3>
+
+            <p class="pull-right"> 2018 - 2024</p>
+
+            <p><strong>Domaine Seguin Dugat</strong></p>
+
+            <ul>
+
+                <li>
+
+                    <p>CDD saisonnier pour les travaux d'effeuillage et d'entretiens viticole.</p>
+
+                </li>
+
+                <li>
+
+                    <p>Vendanges (vignes et cuverie), mois de vinification et mise en fûts.</p>
+
+                </li>
+
+            </ul>
+
+            <h3>Bénévolat</h3>
+
+            <p class="pull-right"> 2017 - 2023</p>
+
+            <p><strong>MJC de Chenôve</strong></p>
+
+            <ul>
+
+                <li>Encadrement des stages jeune du club d'aéromodélisme.</li>
+
+            </ul>
+
+            <h2>Compétences</h2>
+
+            <ul>
+
+                <li>
+
+                    <p>Programmation et Scripting: <code>Bash</code>, <code>Go</code></p>
+
+                </li>
+
+                <li>
+
+                    <p>Technologies et frameworks: <code>API Rest</code>, <code>NodeJS</code>, <code>Hugo</code>, <code>FFmpeg</code></p>
+
+                </li>
+
+                <li>
+
+                    <p>Base de données: <code>MongoDB</code></p>
+
+                </li>
+
+                <li>
+
+                    <p>Systèmes d’exploitation: <code>Linux: Ubuntu</code>, <code>Debian-based</code></p>
+
+                </li>
+
+                <li>
+
+                    <p>Conteneurisation: <code>Docker</code>, <code>Docker-Compose</code>, <code>Snap</code></p>
+
+                </li>
+
+                <li>
+
+                    <p>Outils et Applications: <code>Pix4D</code>, <code>AliceVision Meshroom</code>, <code>Git</code></p>
+
+                </li>
+
+                <li>
+
+                    <p>Bonnes pratiques en matière de sécurité</p>
+
+                </li>
+
+                <li>
+
+                    <p>Autoformation, Adaptabilité, Autonome</p>
+
+                </li>
+
+            </ul>
+
+            <h2>Formations</h2>
+
+            <p><strong>Ecole de télépilotage Professionnelle, Prodroner</strong></p>
+
+            <p class="pull-right"> 2021 - 2022</p>
+
+            <p>Formation de télépilotage de drone à but professionnel, Topographie et Thermographie.</p>
+
+            <ul>
+
+                <li>
+
+                    <p>Générer des résultats de qualité, dans le but de produire des nuages de points, modèles 3D,
+                        photogrammétries et MNS/MNT, ainsi que des relevés par thermographie.</p>
+
+                </li>
+
+                <li>
+
+                    <p>Démarches administratives, législation, sécurité, méthodes de vol.</p>
+
+                </li>
+
+            </ul>
+
+            <p><strong>Université de Bourgogne / UFR - Sciences et Techniques</strong></p>
+
+            <p class="pull-right"> 2017 - 2021</p>
+
+            <p>Licence Professionnelle : Metiers de l'Informatique. (1 semestre)</p>
+
+            <ul>
+
+                <li>Programmation Web (HTML, CSS, JavaScript), Versionning Git, MySQL.</li>
+
+            </ul>
+
+            <p>DEUG Sciences, Technologies, Sante: Informatique et Electronique. </p>
+
+            <ul>
+
+                <li>
+
+                    <p>Programmation orientée objet, Programmation Web, Programmation multithread, Algorithmique, Java,
+                        Systèmes Linux, Traitement et modélisation de l'image.</p>
+
+                </li>
+
+                <li>
+
+                    <p>Électronique, logique combinatoire et séquentielle, Arduino.</p>
+
+                </li>
+
+            </ul>
+
+            <h2>Certifications &amp; Diplômes</h2>
+
+            <table>
+                <tbody>
+                    <tr>
+                        <td align="left">Baccalauréat série Scientifique et Sciences de l'ingénieur.</td>
+                        <td align="left">Permis B, A1</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <table>
+                <tbody>
+                    <tr>
+                        <td align="left">Télépilote de drone professionnel</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2>Projets</h2>
+
+            <h3>Blog Personnel - <a href="https://lucashadey.com" title="lucashadey.com">lucashadey.com</a></h3>
+
+            <ul>
+
+                <li>
+
+                    <p>Blog dédié à l’administration système où je partage mes découvertes et connaissances.</p>
+
+                </li>
+
+                <li>
+
+                    <p>Je publie des découvertes, des astuces pratiques et des réflexions personnelles sur
+                        l’administration de système, Linux et de manière générale sur l'Informatique.</p>
+
+                </li>
+
+            </ul>
+
+            <hr>
+
+            <table>
+                <tbody>
+                    <tr>
+                        <td align="center">Dijon, FRANCE</td>
+                        <td align="center">hadeylucaspro@gmail.com</td>
+                        <td align="center">0781772137</td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+    <script>
+
+        /* const anchors = document.getElementsByTagName('a');
+
+        for (let anchor of anchors) {
+
+            anchor.href = '#';
+
+            anchor.title = 'Links are disabled in preview';
+
+        } */
+
+    </script>
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/dist/twemoji.min.js"></script>
+
+    <script>
+
+        twemoji.parse(
+
+            document.body,
+
+            {base: 'https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/'}
+
+        );
+
+    </script>
+
+
+
+</body>
+
+</html>

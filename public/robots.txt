@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lucashadey.com/sitemap.xml
