@@ -9,7 +9,7 @@ showZenMode = false
 showRelatedContent = false
 +++
 
-Salut et bienvenue sur mon blog! Je m’appelle Lucas Hadey et j’ai 26 ans. Passionné par l’univers de l’administration système et du DevOps, j’aime partager mes connaissances et découvertes à travers ce blog.
+Salut et bienvenue sur mon blog! Je m’appelle Lucas et j’ai 26 ans. Ici, je partage mes découvertes et mes connaissances sur ce domaine fascinant. Passionné d’informatique et particulièrement intéressé par les systèmes d’exploitation, je publie des découvertes, des astuces pratiques et des réflexions personnelles qui, je l’espère, vous inspireront et vous aideront dans vos propres projets.
 
 ![Photo de Lucas Hadey](/about/featured.jpg)
 
