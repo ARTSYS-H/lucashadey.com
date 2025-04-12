@@ -11,13 +11,13 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Blogs"
+ name = "Blog"
  weight = 20
 
 [[main]]
  name = "DevOps"
  pageRef = "posts"
- parent = "Blogs"
+ parent = "Blog"
  weight = 10
 
 # [[main]]
@@ -27,12 +27,12 @@
 #  weight = 20
  
 [[main]]
- name = "A Propos"
+ name = "About"
  pageRef = "about"
  weight = 10
 
 [[main]]
- name = "CurriculumVitae"
+ name = "Resume"
  url = "/resume.html"
  weight = 30
 
