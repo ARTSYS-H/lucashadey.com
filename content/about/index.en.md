@@ -11,7 +11,7 @@ showRelatedContent = false
 
 Hello and welcome to my blog! My name is Lucas and I am {{< age date="1998-04-30" >}} years old. Here, I share my discoveries and knowledge about this fascinating field. Passionate about computer science and particularly interested in operating systems, I publish findings, practical tips, and personal reflections that I hope will inspire and help you in your own projects.
 
-![Photo de Lucas Hadey](/about/featured.jpg)
+![Picture of Lucas Hadey](/about/featured.jpg)
 
 ## Skills
 
@@ -34,7 +34,7 @@ When I'm not immersed in code or configuring systems, I'm a big fan of FPV drone
 You can find me on:
 
 - [GitHub](https://github.com/ARTSYS-H)
-- [Twitter](https://x.com/Mr_ARTSYS) et [Reddit](https://www.reddit.com/user/Mr_ARTSYS/)
+- [Twitter](https://x.com/Mr_ARTSYS) and [Reddit](https://www.reddit.com/user/Mr_ARTSYS/)
 - [Mail](mailto:hadeylucaspro@gmail.com)
 
 Thank you for visiting and feel free to contact me for any questions or collaborations!
