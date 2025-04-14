@@ -31,7 +31,7 @@ Esta es, sin duda, mi mayor descubrimiento reciente. **2001 Nights** de Yukinobu
 
 Puedes encontrar la música que estoy escuchando en este momento y mis recomendaciones en estos artículos:
 
-{{< article link="/posts/music/" >}}
+{{< article link="/es/posts/music/" >}}
 
 ## :clapper: Películas y series
 

@@ -31,7 +31,7 @@ This is undoubtedly my biggest recent discovery. **2001 Nights** by Yukinobu Hos
 
 You can find the music I'm listening to right now and my recommendations in these articles:
 
-{{< article link="/posts/music/" >}}
+{{< article link="/en/posts/music/" >}}
 
 ## :clapper: Movies and TV Shows
 

@@ -1,6 +1,6 @@
 +++
 date = '2025-04-13T18:14:10+02:00'
-lastmod = '2025-04-13T18:22:00+02:00'
+lastmod = '2025-04-14T15:22:55+02:00'
 title = "La Música"
 summary = "La música que escucho mientras trabajo y mis recomendaciones."
 tags = [ "music", "entertainment" ]
@@ -24,3 +24,11 @@ Podrás encontrar de todo, desde música jazz hasta música electrónica.
 {{< youtubeLite id="OgU_UDYd9lY" label="Cool & Smooth Jazz" >}}
 <br>
 {{< youtubeLite id="9ui3YBR1z-g" label="Cool & Smooth Jazz" >}}
+
+## :musical_keyboard: Électro
+
+### Synthwave
+
+Descubrimiento de [Frequency](https://www.youtube.com/@Frequency2024/videos):
+
+{{< youtubeLite id="VnAhaR4bt0E" label="Electro Frequency" >}}
