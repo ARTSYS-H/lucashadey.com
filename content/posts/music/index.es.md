@@ -9,6 +9,16 @@ En este artículo, hago referencia a la música que escucho mientras trabajo, as
 
 Podrás encontrar de todo, desde música jazz hasta música electrónica.
 
+## Playlist 
+
+{{< deezer media="playlist" id="13407049563" height="250" >}}
+
+## Artists 
+
+### Tip Stevens
+
+{{< deezer media="artist" id="13268779" height="250" >}}
+
 ## :jp: Japan Vibes
 
 ¿Un poco de música directamente del país del Sol Naciente?
@@ -22,8 +32,6 @@ Podrás encontrar de todo, desde música jazz hasta música electrónica.
 ### Smooth
 
 {{< youtubeLite id="OgU_UDYd9lY" label="Cool & Smooth Jazz" >}}
-<br>
-{{< youtubeLite id="9ui3YBR1z-g" label="Cool & Smooth Jazz" >}}
 
 ## :musical_keyboard: Électro
 

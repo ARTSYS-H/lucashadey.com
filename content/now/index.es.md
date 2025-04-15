@@ -1,6 +1,6 @@
 +++
 date = '2025-04-05T21:06:50+02:00'
-lastmod = '2025-04-13T19:08:54+02:00'
+lastmod = '2025-04-15T21:59:44+02:00'
 title = 'Ahora'
 showAuthor = false
 showDate = false
@@ -28,6 +28,8 @@ Esta es, sin duda, mi mayor descubrimiento reciente. **2001 Nights** de Yukinobu
 {{< button href="https://www.tcj.com/2001-nights/" target="_blank" >}}Más información{{< /button >}}<br>
 
 ## :headphones: ¿Qué estoy escuchando?
+
+{{< deezer media="playlist" id="13407049563" height="250" >}}
 
 Puedes encontrar la música que estoy escuchando en este momento y mis recomendaciones en estos artículos:
 

@@ -9,6 +9,16 @@ In this article, I reference the music I listen to while working, as well as my 
 
 You will find a variety of genres, ranging from jazz to electronic music.
 
+## Playlist 
+
+{{< deezer media="playlist" id="13407049563" height="250" >}}
+
+## Artists 
+
+### Tip Stevens
+
+{{< deezer media="artist" id="13268779" height="250" >}}
+
 ## :jp: Japan Vibes
 
 How about some music straight from the Land of the Rising Sun?
@@ -22,8 +32,6 @@ How about some music straight from the Land of the Rising Sun?
 ### Smooth
 
 {{< youtubeLite id="OgU_UDYd9lY" label="Cool & Smooth Jazz" >}}
-<br>
-{{< youtubeLite id="9ui3YBR1z-g" label="Cool & Smooth Jazz" >}}
 
 ## :musical_keyboard: Électro
 

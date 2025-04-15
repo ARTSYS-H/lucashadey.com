@@ -1,6 +1,6 @@
 +++
 date = '2025-04-05T21:06:50+02:00'
-lastmod = '2025-04-13T19:08:36+02:00'
+lastmod = '2025-04-15T21:59:19+02:00'
 title = 'Now'
 showAuthor = false
 showDate = false
@@ -28,6 +28,8 @@ This is undoubtedly my biggest recent discovery. **2001 Nights** by Yukinobu Hos
 {{< button href="https://www.tcj.com/2001-nights/" target="_blank" >}}More Info{{< /button >}}<br>
 
 ## :headphones: What am I listening to ?
+
+{{< deezer media="playlist" id="13407049563" height="250" >}}
 
 You can find the music I'm listening to right now and my recommendations in these articles:
 
