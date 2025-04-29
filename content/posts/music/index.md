@@ -1,6 +1,6 @@
 +++
 date = '2025-04-13T18:14:10+02:00'
-lastmod = '2025-04-15T21:53:28+02:00'
+lastmod = '2025-04-29T21:42:02+02:00'
 title = "La Musique"
 summary = "La musique que j'écoute en travaillant et mes recommandations."
 tags = [ "music", "entertainment" ]
@@ -14,6 +14,10 @@ Vous pourrez trouver de tout, allant de musique Jazz à de la musique électroni
 {{< deezer media="playlist" id="13407049563" height="250" >}}
 
 ## Artistes du moment
+
+### Macroblank
+
+{{< youtubeLite id="VyJXkKWsxko" label="Macroblank" >}}
 
 ### Tip Stevens
 
@@ -40,3 +44,7 @@ Un peu de musique tout droit venu du pays du Soleil Levant ?
 Découverte de [Frequency](https://www.youtube.com/@Frequency2024/videos):
 
 {{< youtubeLite id="VnAhaR4bt0E" label="Electro Frequency" >}}
+
+### Vaporwave
+
+{{< youtubeLite id="V1nGjPTcSIk" label="Macroblank - absolute:zero" >}}

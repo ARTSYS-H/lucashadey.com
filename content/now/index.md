@@ -1,6 +1,6 @@
 +++
 date = '2025-04-05T21:06:50+02:00'
-lastmod = '2025-04-15T21:43:44+02:00'
+lastmod = '2025-04-29T21:46:15+02:00'
 title = 'Now'
 showAuthor = false
 showDate = false
@@ -29,7 +29,7 @@ C'est sans doute ma grande découverte récente, **2001 Nights** de Yukinobu Hos
 
 ## :headphones: Qu'est-ce que j'écoute ?
 
-{{< deezer media="playlist" id="13407049563" height="250" >}}
+{{< youtubeLite id="VyJXkKWsxko" label="Macroblank" >}}
 
 Vous pouvez retrouver la musique que j'écoute en ce moment et mes recommandations dans ces articles :
 

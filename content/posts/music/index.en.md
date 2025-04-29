@@ -1,6 +1,6 @@
 +++
 date = '2025-04-13T18:14:10+02:00'
-lastmod = '2025-04-14T15:20:40+02:00'
+lastmod = '2025-04-29T21:42:56+02:00'
 title = "The Music"
 summary = "The music I listen to while working and my recommendations."
 tags = [ "music", "entertainment" ]
@@ -14,6 +14,10 @@ You will find a variety of genres, ranging from jazz to electronic music.
 {{< deezer media="playlist" id="13407049563" height="250" >}}
 
 ## Artists 
+
+### Macroblank
+
+{{< youtubeLite id="VyJXkKWsxko" label="Macroblank" >}}
 
 ### Tip Stevens
 

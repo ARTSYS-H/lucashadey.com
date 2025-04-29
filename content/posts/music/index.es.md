@@ -1,6 +1,6 @@
 +++
 date = '2025-04-13T18:14:10+02:00'
-lastmod = '2025-04-14T15:22:55+02:00'
+lastmod = '2025-04-29T21:43:41+02:00'
 title = "La Música"
 summary = "La música que escucho mientras trabajo y mis recomendaciones."
 tags = [ "music", "entertainment" ]
@@ -14,6 +14,10 @@ Podrás encontrar de todo, desde música jazz hasta música electrónica.
 {{< deezer media="playlist" id="13407049563" height="250" >}}
 
 ## Artists 
+
+### Macroblank
+
+{{< youtubeLite id="VyJXkKWsxko" label="Macroblank" >}}
 
 ### Tip Stevens
 
