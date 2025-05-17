@@ -1,6 +1,6 @@
 +++
 date = '2025-04-05T21:06:50+02:00'
-lastmod = '2025-04-29T21:50:49+02:00'
+lastmod = '2025-05-17T12:26:30+02:00'
 title = 'Ahora'
 showAuthor = false
 showDate = false
@@ -41,8 +41,8 @@ Actualmente, estoy viendo nuevamente Stargate, mi serie favorita. Volver a ver e
 
 ## :video_game: Videojuegos
 
-Recientemente, descubrí el juego [Ixion](https://store.steampowered.com/app/1113120/IXION/) y lo disfruté mucho. Este juego de gestión y estrategia te pone al mando de una estación espacial, la Tiqqun, en una misión para encontrar un nuevo planeta habitable para la humanidad. Lo que más me gustó fue la dificultad bien equilibrada: ni demasiado difícil ni demasiado fácil, lo que hace que la jugabilidad sea muy agradable.
+Mi juego del momento es [Clair Obscur: Expedition 33](https://www.sandfall.co/), ¡y para mí es el juego del año! Desarrollado por un pequeño equipo, es un RPG por turnos que tiene lugar en un mundo que mezcla los géneros de fantasía y la cultura y el arte europeos de la "Belle Époque".
 
-La historia es cautivadora y bien integrada, con decisiones narrativas que influyen en el progreso del juego. Gestionar los recursos, la investigación tecnológica y las interacciones con varias facciones a bordo de la estación añade una profundidad estratégica que me mantuvo involucrado durante toda la aventura. Los gráficos y la atmósfera sonora también contribuyen a la inmersión en este universo futurista.
+La historia es muy cautivadora, los personajes son muy entrañables y la banda sonora es simplemente excelente. La forma en que se incorporan elementos de las culturas francesa y europea está bien manejada, e incluso obtenemos una buena dosis de referencias a la cultura pop.
 
-Sin embargo, la dificultad a veces me llevó a perder y reiniciar, lo cual es cada vez más raro en este tipo de juegos. Esta experiencia añadió una dimensión de desafío que hace que completar el juego sea aún más satisfactorio. ¡Si eres fanático de los juegos de gestión con una buena dosis de narrativa, te recomiendo encarecidamente probar Ixion!
+En cuanto a la jugabilidad, la encuentro bastante accesible pero no demasiado simple durante las fases de combate. Siendo mi primer RPG por turnos, no me atrevería a compararlo con otros grandes nombres del género, pero una cosa es segura: el juego es un gran éxito.

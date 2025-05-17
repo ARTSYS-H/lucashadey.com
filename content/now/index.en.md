@@ -1,6 +1,6 @@
 +++
 date = '2025-04-05T21:06:50+02:00'
-lastmod = '2025-04-29T21:50:30+02:00'
+lastmod = '2025-05-17T12:25:26+02:00'
 title = 'Now'
 showAuthor = false
 showDate = false
@@ -41,8 +41,8 @@ Right now, I'm enthusiastically rewatching Stargate, my favorite series. Revisit
 
 ## :video_game: Video Games
 
-Recently, I discovered the game [Ixion](https://store.steampowered.com/app/1113120/IXION/) and really enjoyed it. This management and strategy game puts you in charge of a space station, the Tiqqun, on a quest to find a new habitable planet for humanity. What I particularly liked was the well-balanced difficulty: neither too hard nor too easy, making the gameplay very enjoyable.
+My current favorite game is [Clair Obscur: Expedition 33](https://www.sandfall.co/), and for me, it's the game of the year! Developed by a small team, it's a turn-based RPG set in a world that blends fantasy with the cultural and artistic styles of Europeans from the "Belle Époque."
 
-The story is captivating and well-integrated, with narrative choices that influence the game's progression. Managing resources, technological research, and interactions with various factions on board the station add a strategic depth that kept me engaged throughout the adventure. The graphics and sound atmosphere also contribute to the immersion in this futuristic universe.
+The story is very captivating, the characters are very endearing, and the OST is just excellent! The way elements of French and European cultures are incorporated is well handled, and we even get a good dose of pop culture references.
 
-However, the difficulty sometimes led me to lose and restart, which is increasingly rare in this type of game. This experience added a dimension of challenge that makes completing the game even more satisfying. If you're a fan of management games with a good dose of narrative, I highly recommend trying Ixion!
+As for the gameplay, I find it quite accessible but not too simple during combat phases. Being my first turn-based RPG, I wouldn't dare compare it to other big names in the genre, but one thing is for sure: the game is a great success.
