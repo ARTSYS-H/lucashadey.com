@@ -1,5 +1,6 @@
 +++
 date = '2025-05-21T10:18:07+02:00'
+lastmod = '2025-05-23T10:25:00+02:00'
 title = 'Ma Stack'
 summary = "Proyectos y herramientas que uso en mi flujo de trabajo y que son interesantes."
 tags = ["Git","Tools","Linux","GitHub"]
@@ -31,6 +32,8 @@ La mayor parte de la siguiente lista proviene de mis [Estrellas](https://github.
 
 ## :toolbox: Perfect Tools
 
+{{< github repo="Melkeydev/go-blueprint" >}}
+</br>
 {{< github repo="jesseduffield/lazygit" >}}
 </br>
 {{< github repo="jesseduffield/lazydocker" >}}
