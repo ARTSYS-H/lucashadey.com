@@ -20,11 +20,11 @@
  parent = "Blogs"
  weight = 10
 
-# [[main]]
-#  name = "Drones-FPV"
-#  pageRef = ""
-#  parent = "Blogs"
-#  weight = 20
+[[main]]
+ name = "Go"
+ pageRef = "go"
+ parent = "Blogs"
+ weight = 20
  
 [[main]]
  name = "A Propos"

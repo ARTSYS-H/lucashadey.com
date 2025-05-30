@@ -25,6 +25,8 @@ He dominado una variedad de tecnologías y herramientas que he desarrollado a lo
 - **Herramientas y aplicaciones:** Pix4D, AliceVision Meshroom
 - **Blogueo:** Hugo
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARTSYS-H&layout=compact)
+
 ## Pasiones y Aficiones
 
 Cuando no estoy inmerso en el código o configurando sistemas, soy un gran aficionado a los drones FPV. Ya sea para freestyle o carreras, me encanta construir, ajustar y volar mis drones. Es una pasión que me trae mucha alegría y desafíos técnicos.

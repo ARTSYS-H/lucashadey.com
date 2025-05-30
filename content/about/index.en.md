@@ -25,6 +25,8 @@ I have mastered a variety of technologies and tools that I have developed over t
 - **Tools and Applications:** Pix4D, AliceVision Meshroom
 - **Blogging:** Hugo
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARTSYS-H&layout=compact)
+
 ## Passions and Hobbies
 
 When I'm not immersed in code or configuring systems, I'm a big fan of FPV drones. Whether it's for freestyle or racing, I love building, tuning, and flying my drones. It's a passion that brings me a lot of joy and technical challenges.
