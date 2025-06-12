@@ -25,6 +25,12 @@
  pageRef = "go"
  parent = "Blogs"
  weight = 20
+
+[[main]]
+ name = "Projects"
+ pageRef = "projects"
+ parent = "Blogs"
+ weight = 30
  
 [[main]]
  name = "A Propos"
