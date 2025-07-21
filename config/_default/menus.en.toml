@@ -19,12 +19,6 @@
  pageRef = "posts"
  parent = "Blog"
  weight = 10
-
-# [[main]]
-#  name = "Drones-FPV"
-#  pageRef = ""
-#  parent = "Blogs"
-#  weight = 20
  
 [[main]]
  name = "About"

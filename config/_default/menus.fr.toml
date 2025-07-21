@@ -27,7 +27,7 @@
  weight = 20
 
 [[main]]
- name = "Projects"
+ name = "Projets"
  pageRef = "projects"
  parent = "Blogs"
  weight = 30
