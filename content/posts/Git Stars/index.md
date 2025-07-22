@@ -1,6 +1,6 @@
 +++
 date = '2025-05-21T10:18:07+02:00'
-lastmod = '2025-05-23T10:25:00+02:00'
+lastmod = '2025-07-22T14:17:50+02:00'
 title = 'Ma Stack'
 summary = "Projets et outils que j'utilise dans mon workflow, et qui sont intéressants."
 tags = ["Git","Tools","Linux","GitHub"]
@@ -16,7 +16,7 @@ La majorité de la liste qui suit est issue de mes [Stars](https://github.com/AR
 </br>
 {{< github repo="ohmybash/oh-my-bash" >}}
 </br>
-{{< github repo="todotxt/todo.txt-cli" >}}
+{{< github repo="GothenburgBitFactory/taskwarrior" >}}
 </br>
 {{< github repo="ARTSYS-H/dotfiles" >}}
 
