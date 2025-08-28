@@ -33,7 +33,7 @@ C'est sans doute ma grande découverte récente, **2001 Nights** de Yukinobu Hos
 
 Vous pouvez retrouver la musique que j'écoute en ce moment et mes recommandations dans ces articles :
 
-{{< article link="/posts/music/" >}}
+{{< article link="/archives/music/" showSummary=true >}}
 
 ## :clapper: Cinéma et Séries
 

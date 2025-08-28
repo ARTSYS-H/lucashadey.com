@@ -2,6 +2,7 @@
 title: >-
   Nginx: Serveur de Fichier Statiques et Proxy pour Applications
   Node.js
+summary: 'Nginx (prononcé "engine-X") est un serveur web et un proxy inverse très perfomant, connu pour sa stabilité, sa riche pallete de fonctionnalités, sa configuration simple et sa faible consommation de ressources.'
 tags:
   - Nginx
   - WebServer

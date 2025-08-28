@@ -11,25 +11,25 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Blogs"
+ name = "Blog"
+ pageRef = "posts"
  weight = 20
 
 [[main]]
  name = "Posts"
  pageRef = "posts"
- parent = "Blogs"
+ parent = "Blog"
  weight = 10
 
 [[main]]
- name = "Go"
- pageRef = "go"
- parent = "Blogs"
- weight = 20
+ name = "Projets"
+ pageRef = "projets"
+ weight = 30
 
 [[main]]
- name = "Projets"
- pageRef = "projects"
- parent = "Blogs"
+ name = "Archives"
+ pageRef = "archives"
+ parent = "Blog"
  weight = 30
  
 [[main]]
@@ -38,14 +38,14 @@
  weight = 10
 
 [[main]]
- name = "CurriculumVitae"
+ name = "Resume"
  url = "/resume.html"
- weight = 30
+ weight = 40
 
 [[main]]
  name = "Now"
  pageRef = "now"
- weight = 40
+ weight = 50
 
 #[[main]]
 #  name = "example sub-menu 1"
@@ -86,10 +86,10 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
 
 # [[footer]]
 #   name = "Categories"

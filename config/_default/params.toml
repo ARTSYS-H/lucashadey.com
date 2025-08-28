@@ -6,7 +6,7 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "avocado"
-defaultAppearance = "dark" # valid options: light or dark
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = true
@@ -14,15 +14,15 @@ enableCodeCopy = true
 
 replyByEmail = false
 
-mainSections = ["posts","go","projects"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/Background.jpg" # used as default for background images 
-defaultFeaturedImage = "img/Featured.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "" # used as default for background images 
+defaultFeaturedImage = "" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -32,7 +32,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -42,13 +42,13 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/Background.jpg" # used in: hero, and card
+  layout = "profile" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "" # used in: hero, and card
   showRecent = true
-  showRecentItems = 6
+  showRecentItems = 5
   showMoreLink = true
   showMoreLinkDest = "posts"
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
@@ -59,7 +59,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showDateOnlyInArticle = false
   showDateUpdated = true
   showAuthor = true
-  # showAuthorBottom = false
+  showAuthorBottom = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
@@ -75,12 +75,12 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showRelatedContent = true
+  showRelatedContent = false
   relatedContentLimit = 3
-  showTaxonomies = true
+  showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = false
-  sharingLinks = ["twitter", "bluesky", "reddit", "facebook"]
+  sharingLinks = ["twitter", "bluesky", "reddit"]
   showZenMode = true
 
 [list]
@@ -93,12 +93,12 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = true
+  showCards = false
   orderByWeight = false
   groupByYear = true
   cardView = false
   cardViewScreenWidth = false
-  constrainItemsWidth = false
+  constrainItemsWidth = true
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
