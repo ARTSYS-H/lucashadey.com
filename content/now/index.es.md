@@ -29,7 +29,7 @@ Esta es, sin duda, mi mayor descubrimiento reciente. **2001 Nights** de Yukinobu
 
 ## :headphones: ¿Qué estoy escuchando?
 
-{{< youtubeLite id="VyJXkKWsxko" label="Macroblank" >}}
+{{< youtubeLite id="I1ghW_4UZfo" label="Macroblank" >}}
 
 Puedes encontrar la música que estoy escuchando en este momento y mis recomendaciones en estos artículos:
 

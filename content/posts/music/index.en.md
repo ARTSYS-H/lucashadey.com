@@ -1,6 +1,6 @@
 +++
 date = '2025-04-13T18:14:10+02:00'
-lastmod = '2025-04-29T21:42:56+02:00'
+lastmod = '2025-08-28T16:18:29+02:00'
 title = "The Music"
 summary = "The music I listen to while working and my recommendations."
 tags = [ "music", "entertainment" ]
@@ -11,7 +11,7 @@ You will find a variety of genres, ranging from jazz to electronic music.
 
 ## Playlist 
 
-{{< deezer media="playlist" id="13407049563" height="250" >}}
+{{< deezer media="playlist" id="5045193264" height="250" >}}
 
 ## Artists 
 
@@ -23,21 +23,7 @@ You will find a variety of genres, ranging from jazz to electronic music.
 
 {{< deezer media="artist" id="13268779" height="250" >}}
 
-## :jp: Japan Vibes
-
-How about some music straight from the Land of the Rising Sun?
-
-### City Pop
-
-{{< youtubeLite id="zDf84Hk9F6s" label="Chill City Pop" >}}
-
-## :saxophone: Jazz
-
-### Smooth
-
-{{< youtubeLite id="OgU_UDYd9lY" label="Cool & Smooth Jazz" >}}
-
-## :musical_keyboard: Électro
+## Électro
 
 ### Synthwave
 

@@ -29,7 +29,7 @@ This is undoubtedly my biggest recent discovery. **2001 Nights** by Yukinobu Hos
 
 ## :headphones: What am I listening to ?
 
-{{< youtubeLite id="VyJXkKWsxko" label="Macroblank" >}}
+{{< youtubeLite id="I1ghW_4UZfo" label="Macroblank" >}}
 
 You can find the music I'm listening to right now and my recommendations in these articles:
 

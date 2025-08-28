@@ -29,7 +29,7 @@ C'est sans doute ma grande découverte récente, **2001 Nights** de Yukinobu Hos
 
 ## :headphones: Qu'est-ce que j'écoute ?
 
-{{< youtubeLite id="VyJXkKWsxko" label="Macroblank" >}}
+{{< youtubeLite id="I1ghW_4UZfo" label="Macroblank" >}}
 
 Vous pouvez retrouver la musique que j'écoute en ce moment et mes recommandations dans ces articles :
 
