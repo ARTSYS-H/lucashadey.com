@@ -4,12 +4,7 @@ title: >-
   Node.js
 summary: 'Nginx (prononcé "engine-X") est un serveur web et un proxy inverse très perfomant, connu pour sa stabilité, sa riche pallete de fonctionnalités, sa configuration simple et sa faible consommation de ressources.'
 tags:
-  - Nginx
-  - WebServer
-  - ReverseProxy
-  - NodeJS
-  - Linux
-  - LinuxServer
+    - server
 date: 2024-06-22 12:12:20
 ---
 

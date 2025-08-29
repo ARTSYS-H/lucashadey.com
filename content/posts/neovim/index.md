@@ -3,9 +3,6 @@ title: 'NeoVim: Un Éditeur de Texte Moderne et Puissant'
 summary: 'Conçu pour les développeurs par des développeurs, NeoVim offre une expérience de codage puissante et extensible.'
 tags:
   - NeoVim
-  - IDE
-  - code
-  - coding
   - tools
 date: 2024-06-07 17:10:56
 ---

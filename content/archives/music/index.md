@@ -3,7 +3,7 @@ date = '2025-04-13T18:14:10+02:00'
 lastmod = '2025-08-28T16:18:29+02:00'
 title = "La Musique"
 summary = "La musique que j'écoute en travaillant et mes recommandations."
-tags = [ "music", "entertainment" ]
+tags = [ "music", "personal" ]
 +++
 Dans cet article, je référence la musique que j'écoute en travaillant ainsi que mes recommandations et mes découvertes du moments. Il sera régulièrement mis à jour. 
 

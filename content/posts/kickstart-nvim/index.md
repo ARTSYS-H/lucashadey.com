@@ -2,11 +2,8 @@
 title: Améliorez votre expérience NeoVim avec kickstart.nvim
 summary: "Un modèle de configuration conçu pour aider les utilisateurs à démarrer rapidement avec Neovim. Il fournit une base solide avec une configuration par défaut bien pensée."
 tags:
-  - IDE
   - NeoVim
   - tools
-  - code
-  - coding
 date: 2024-06-15 16:45:07
 ---
 

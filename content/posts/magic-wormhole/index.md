@@ -2,9 +2,6 @@
 title: 'Wormhole: Transférer des Secrets'
 summary: 'Né de la nécessité de partager des informations sensibles de manière sécurisée, WormHole offre une approche unique et cryptographiquement solide.'
 tags:
-  - wormhole
-  - magic-wormhole
-  - files
   - ssh
   - tools
 date: 2024-05-20 13:56:55

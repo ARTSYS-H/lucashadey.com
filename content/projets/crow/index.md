@@ -2,7 +2,7 @@
 date = '2025-06-12T09:05:05+02:00'
 title = 'Crow'
 summary = "Crow est une bibliothèque Go conçue pour créer des applications en ligne de commande de manière simple et intuitive en utilisant les struct fields et les tags."
-tags = [ "Go", "Projects", "Library", "CLI", "GitHub"]
+tags = [ "Go", "Projects"]
 +++
 Crow est une bibliothèque Go dont le principale objectif est de fournir une manière simple et intuitive de créer des applications en ligne de commande en utilisant les `struct field` et les `tags`. Inspirée par des projets comme [Commandeer][commandeer], Crow vise à fournir une solution plus directe et "plug & play" pour la création de petites applications ou scripts, réduissant ainsi la complexité souvent associé à des bibliothèques comme [Cobra][cobra].
 

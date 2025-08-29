@@ -2,7 +2,7 @@
 date = '2025-04-12T16:42:49+02:00'
 title = 'GPG - Introduction Complète'
 summary = 'Vous apprendrez peut être une chose ou deux sur GPG, les clés, la signature et le chiffrement.'
-tags = [ "encryption", "files", "gpg", "linux", "tools" ]
+tags = [ "linux", "tools" ]
 +++
 
 Commençons directement :
