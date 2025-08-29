@@ -9,7 +9,7 @@ showZenMode = false
 showRelatedContent = false
 +++
 
-Salut ! Je suis Lucas, *[Lugh](https://mythopedia.com/topics/lugh/)* est le pseudonyme que j'utilise et j'ai 27 ans. Je vis en Bourgogne proche de Dijon. 
+Salut ! Je suis Lucas, *[Lugh](https://mythopedia.com/topics/lugh/)* est le pseudonyme que j'utilise et j'ai {{< age date="1998-04-30" >}} ans. Je vis en Bourgogne proche de Dijon. 
 
 J'adore m'impliquer dans des projets Open Source et je cherche constamment à améliorer mes connaissances.
 Je suis très intéresser par l'univers de l'administration système et Linux. 
@@ -23,7 +23,7 @@ et pas autant que je le souhaiterais. J'écris principalement sur ce que je conn
 
 ## Sur le Web
 
-Si vous souhaitez me suivre alleurs, voici une liste de mes profils sur le Web.
+Si vous souhaitez me suivre ailleurs, voici une liste de mes profils sur le Web.
 Certains sont plus actifs que d'autres :
 
 - [GitHub](https://github.com/ARTSYS-H), c'est là que vous trouverez la plupart de mes projets.
