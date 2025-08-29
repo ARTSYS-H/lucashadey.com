@@ -9,7 +9,7 @@ showZenMode = false
 showRelatedContent = false
 +++
 
-Salut ! Je suis Lucas, *[Lugh](https://mythopedia.com/topics/lugh/)* est le pseudonyme que j'utilise et j'ai {{< age date="1998-04-30" >}} ans. Je vis en Bourgogne proche de Dijon. 
+Salut ! Je suis Lucas, [Lugh][lugh] sur le Web et j'ai {{< age date="1998-04-30" >}} ans. Je vis en Bourgogne proche de Dijon. 
 
 J'adore m'impliquer dans des projets Open Source et je cherche constamment à améliorer mes connaissances.
 Je suis très intéresser par l'univers de l'administration système et Linux. 
@@ -29,6 +29,13 @@ Certains sont plus actifs que d'autres :
 - [GitHub](https://github.com/ARTSYS-H), c'est là que vous trouverez la plupart de mes projets.
 - [Reddit](https://www.reddit.com/user/Mr_ARTSYS), c'est là que je publie des mises à jour et des *[trucs](https://fr.wiktionary.org/wiki/truc)* occasionnellement.
 
+#### Fun fact
+
+J'utilise le pseudonyme [Lugh][lugh] par affection pour la mythologie celtique, sans me comparer à un dieu.
+Le corbeau :black_bird:, est souvent utilisé comme symbole de Lugh. Il est généralement associé à la lumière, aux arts et à de multiples compétences.
+
 {{< typeit tag=h4 speed=50 lifeLike=true >}}
 Merci de votre visite et n'hésitez pas à me contacter pour toutes questions ou collaboration !
 {{< /typeit >}}
+
+[lugh]: https://mythopedia.com/topics/lugh/ 
