@@ -3,7 +3,7 @@ date = '2025-05-21T10:18:07+02:00'
 lastmod = '2025-07-22T14:17:50+02:00'
 title = 'Ma Stack'
 summary = "Projets et outils que j'utilise dans mon workflow, et qui sont intéressants."
-tags = ["Tools","Linux","GitHub"]
+tags = ["Tools","GitHub"]
 +++
 Dans cet article, je partage les outils que j'utilise dans mon workflow et les projets que je trouve vraiment intéressants.
 Celà peut aller de simple documentations à des outils d'organisations, ou plus spécifique comme des IDE et des Framework.
