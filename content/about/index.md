@@ -9,35 +9,26 @@ showZenMode = false
 showRelatedContent = false
 +++
 
-Salut et bienvenue sur mon blog! Je m’appelle Lucas et j’ai {{< age date="1998-04-30" >}} ans. Ici, je partage mes découvertes et mes connaissances sur ce domaine fascinant. Passionné d’informatique et particulièrement intéressé par les systèmes d’exploitation, je publie des découvertes, des astuces pratiques et des réflexions personnelles qui, je l’espère, vous inspireront et vous aideront dans vos propres projets.
+Salut ! Je suis Lucas, *[Lugh](https://mythopedia.com/topics/lugh/)* est le pseudonyme que j'utilise et j'ai 27 ans. Je vis en Bourgogne proche de Dijon. 
 
-![Photo de Lucas Hadey](/about/lucas.jpg)
+J'adore m'impliquer dans des projets Open Source et je cherche constamment à améliorer mes connaissances.
+Je suis très intéresser par l'univers de l'administration système et Linux. 
 
-## Compétences
+![Photo de Lucas Hadey](/img/lucas.jpg "*2025-04-08, Dijon*")
 
-Je maîtrise une variété de technologies et outils que j'ai développées au fil des ans, ce qui me permet de m'adapter à différents environnements et projets. Voici un aperçu de mes compétences :
+## Blog
 
-- **Programmation et Scripting:** Bash, Go
-- **Technologies et frameworks:** API REST, NodeJS, FFmpeg
-- **Base de données:** MongoDB
-- **Systèmes d'exploitation:** Linux: Ubuntu, Debian-based
-- **Conteneurisation:** Docker, Docker-Compose, Snap
-- **Outils et Applications:** Pix4D, AliceVision Meshroom
-- **Blogging:** Hugo
+J'utilise ce site web comme mon *blog personnel*. C'est un excellent moyen de rester en contact avec moi, car ma présence sur les réseaux sociaux est plutôt rare. J'écris peu,
+et pas autant que je le souhaiterais. J'écris principalement sur ce que je connais du vaste domaine de l'administration système et Linux. De temps en temps, j'écris sur des sujets de la vie quotidienne, des projets annexes, des outils en ligne de commande, des loisirs, des livres que j'ai lus et tout ce qui me passe par la tête. C'est un mélange aléatoire, et c'est tout l'intérêt d'avoir mon site web personnel où je peux faire ce que je veux.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARTSYS-H&layout=compact)
-<!-- ![Lugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARTSYS-H&show_icons=true) -->
+## Sur le Web
 
-## Passions et Loisirs
+Si vous souhaitez me suivre alleurs, voici une liste de mes profils sur le Web.
+Certains sont plus actifs que d'autres :
 
-Quand je ne suis pas plongé dans le code ou en train de configurer des systèmes, je suis un grand amateur de drones FPV. Que ce soit pour le freestyle ou le racing, j'adore construire, paramétrer et piloter mes drones. C'est une passion qui m'apporte beaucoup de plaisir et de défis techniques.
+- [GitHub](https://github.com/ARTSYS-H), c'est là que vous trouverez la plupart de mes projets.
+- [Reddit](https://www.reddit.com/user/Mr_ARTSYS), c'est là que je publie des mises à jour et des *[trucs](https://fr.wiktionary.org/wiki/truc)* occasionnellement.
 
-## Contact
-
-Vous pouvez me retrouver sur :
-
-- [GitHub](https://github.com/ARTSYS-H)
-- [Twitter](https://x.com/Mr_ARTSYS) et [Reddit](https://www.reddit.com/user/Mr_ARTSYS/)
-- [Mail](mailto:hadeylucaspro@gmail.com)
-
-Merci de votre visite et n'hésitez pas à me contacter pour toute question ou collaboration !
+{{< typeit tag=h4 speed=50 lifeLike=true >}}
+Merci de votre visite et n'hésitez pas à me contacter pour toutes questions ou collaboration !
+{{< /typeit >}}
