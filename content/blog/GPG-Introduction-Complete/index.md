@@ -1,7 +1,7 @@
 +++
 date = '2025-04-12T16:42:49+02:00'
 title = 'GPG - Introduction Complète'
-summary = 'Vous apprendrez peut être une chose ou deux sur GPG, les clés, la signature et le chiffrement.'
+description = 'Vous apprendrez peut être une chose ou deux sur GPG, les clés, la signature et le chiffrement.'
 tags = [ "tools" ]
 +++
 
@@ -281,7 +281,7 @@ Récupérez le certificat que vous avez généré dans la section ci-dessus. Com
 gpg --import PUBLIC_KEY_ID_HERE_revoke.asc
 ```
 
-Suivez ensuite à nouveau les étapes de [« Publier votre clé »](#publier-votre-clé) pour mettre à jour la clé publique dans le serveur de clés et informer les autres que votre clé a été compromise. Notez qu’une fois les modifications publiées, <mark>vous ne pourrez pas arrêter la révocation localement.</mark>
+Suivez ensuite à nouveau les étapes de [« Publier votre clé »](#publier-votre-clé) pour mettre à jour la clé publique dans le serveur de clés et informer les autres que votre clé a été compromise. Notez qu’une fois les modifications publiées, vous ne pourrez pas arrêter la révocation localement.
 
 ## Annuler la révocation de la clé
 
@@ -345,11 +345,11 @@ En opposition, GPG utilise un autre modèle : le « réseau de confiance ». Vou
 
 Ce modèle fonctionne à merveille, car plus vous signez de clés, plus il en signe, plus le niveau de confiance que les clés appartiennent à la bonne personne est élevé. C’est pourquoi on l’appelle un réseau de confiance. Une fois assemblé, l’ensemble du système ressemble à un réseau :
 
-![Web of Trust](/posts/gpg-introduction-complete/Web_of_Trust.png)
+![Web of Trust](Web_of_Trust.png)
 
 [Les gens organisent même des fêtes dans la vraie vie pour signer des clés !](https://en.wikipedia.org/wiki/Key_signing_party) Bien sûr, cela ne signifie pas que vous devez signer la clé de n’importe quel inconnu… Vous devez toujours vérifier son identité !
 
-![responsible behavior](/posts/gpg-introduction-complete/responsible_behavior.png)
+![responsible behavior](responsible_behavior.png)
 
 Le processus est simple : vous notez votre identifiant de clé publique sur papier (vous n’apportez généralement pas votre ordinateur contenant votre paire de clés, car cela peut augmenter les risques de fuite de votre clé privée) et vous participez à une soirée de signature de clés. Au cours de l’événement, vous notez autant d’identifiants de clés publiques que possible, à condition d’avoir d’abord vérifié l’identité de chaque individu. Ensuite, vous rentrez chez vous, [vous recevez les clés](#réception-des-clés-publiées), puis vous les signez :
 

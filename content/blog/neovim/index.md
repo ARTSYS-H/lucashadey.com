@@ -1,6 +1,6 @@
 ---
 title: 'NeoVim: Un Éditeur de Texte Moderne et Puissant'
-summary: 'Conçu pour les développeurs par des développeurs, NeoVim offre une expérience de codage puissante et extensible.'
+description: 'Conçu pour les développeurs par des développeurs, NeoVim offre une expérience de codage puissante et extensible.'
 tags:
   - NeoVim
   - tools
@@ -10,7 +10,7 @@ date: 2024-06-07 17:10:56
 
 Dans le monde des éditeurs de texte, **NeoVim** s'est rapidement imposé comme une alternative moderne et améliorée à Vim. Conçu pour les développeurs par des développeurs, NeoVim offre une expérience de codage puissante et extensible. Voici pourquoi vous devriez envisager de l'adopter.
 
-![logo NeoVim](/posts/neovim/logo@2x.png "Logo de NeoVim")
+![logo NeoVim](logo@2x.png "Logo de NeoVim")
 
 ## Qu'est-ce que NeoVim ?
 
@@ -24,7 +24,7 @@ NeoVim est un fork de Vim, un éditeur de texte bien connu pour sa légèreté e
 
 3. **Interface Utilisateur Améliorée**: NeoVim prend en charge des interfaces graphiques multiples, permettant aux utilisateurs de choisir leur environnement de travail préféré. Des projets comme `nvim-qt` ou `neovide` offrent des interfaces graphiques modernes tout en conservant la puissance de l'éditeur en ligne de commande.
 
-![Neovide](/posts/neovim/BasicScreenCap.png "Interface graphique de NeoVim avec Neovide")
+![Neovide](BasicScreenCap.png "Interface graphique de NeoVim avec Neovide")
 
 4. **Communauté Active**: La communauté NeoVim est dynamique et en pleine croissance. De nombreux plugins et extensions sont développés et partagés régulièrement, offrant une vaste bibliothèque de ressources pour améliorer et personnaliser votre environnement de codage.
 

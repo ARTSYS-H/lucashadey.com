@@ -1,6 +1,6 @@
 ---
 title: Améliorez votre expérience NeoVim avec kickstart.nvim
-summary: "Un modèle de configuration conçu pour aider les utilisateurs à démarrer rapidement avec Neovim. Il fournit une base solide avec une configuration par défaut bien pensée."
+description: "Un modèle de configuration conçu pour aider les utilisateurs à démarrer rapidement avec Neovim. Il fournit une base solide avec une configuration par défaut bien pensée."
 tags:
   - NeoVim
   - tools
@@ -9,7 +9,7 @@ date: 2024-06-15 16:45:07
 
 Neovim est un éditeur de texte incroyablement puissant, mais son véritable potentiel se dévoile lorsqu'il est personnalisé et étendu avec des plugins. Cependant, la configuration initiale de Neovim peut être intimidante, surtout pour les nouveaux utilisateurs. C'est là que **[kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)** entre en jeu. Dans cet article, nous explorons comment kickstart.nvim peut transformer votre expérience Neovim en quelques étapes simples.
 
-![logo de Neovim](/posts/kickstart-nvim/logo@2x.png "Logo de NeoVim")
+![logo de Neovim](logo@2x.png "Logo de NeoVim")
 
 ## Qu'est-ce que kickstart.nvim ?
 
@@ -84,7 +84,7 @@ Kickstart.nvim inclut une sélection de plugins essentiels pour améliorer votre
 - **Mason.nvim**: Gestionnaire de serveurs de langage (LSP) pour une intégration facile et rapide.
 - **lazy.nvim**: Gestionnaire de plugins rapide et efficace.
 
-![Lazy.nvim](/posts/kickstart-nvim/lazy.png "Menu de lazy.nvim")
+![Lazy.nvim](lazy.png "Menu de lazy.nvim")
 
 ## Pourquoi choisir kickstart.nvim ?
 
@@ -100,7 +100,7 @@ N'attendez plus pour améliorer votre flux de travail avec Neovim. Essayez kicks
 
 Je recommande également l'excellente Vidéo de **[TJ DeVries](https://www.youtube.com/@teej_dv)** qui vous apportera de bon éléments sur Kickstart.nvim.
 
-{{< youtubeLite id="m8C0Cq9Uv9o" label="Kickstart.nvim demo" >}}
+{{< youtube id="m8C0Cq9Uv9o" label="Kickstart.nvim demo" >}}
 
 ---
 

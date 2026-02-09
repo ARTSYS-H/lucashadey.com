@@ -1,41 +1,41 @@
 +++
 date = '2025-04-06T10:19:04+02:00'
 title = 'A Propos'
-showAuthor = false
-showDate = false
-showReadingTime = false
-sharingLinks = false
-showZenMode = false
-showRelatedContent = false
+menu = "main"
+weight = 10
 +++
 
-Salut ! Je suis Lucas, [Lugh][lugh] sur le Web et j'ai {{< age date="1998-04-30" >}} ans. Je vis en Bourgogne proche de Dijon. 
+Salut ! Moi c'est Lucas, [Lugh][lugh] sur le Web et j'ai {{< age date="1998-04-30" >}} ans.
 
-J'adore m'impliquer dans des projets Open Source et je cherche constamment à améliorer mes connaissances.
-Je suis très intéresser par l'univers de l'administration système et Linux. 
+Je suis programmeur amateur, utilisateur Linux, passionné d'informatique et électronique. J'écris sur les sujets qui m'intéressent.
+Pour un aperçu de mes activités actuelles, consultez ma page [Now](/now).
 
-![Photo de Lucas Hadey](/img/lucas.jpg "*2025-04-08, Dijon*")
+## Projets
 
-## Blog
+**Tous** mes projets sont Open Source. Il s'agit principalement de petits outils qui optimisent mon flux de travail.
+Je contribue également à des projets et des écosystèmes qui me tiennent à cœur.
 
-J'utilise ce site web comme mon *blog personnel*. C'est un excellent moyen de rester en contact avec moi, car ma présence sur les réseaux sociaux est plutôt rare. J'écris peu,
-et pas autant que je le souhaiterais. J'écris principalement sur ce que je connais du vaste domaine de l'administration système et Linux. De temps en temps, j'écris sur des sujets de la vie quotidienne, des projets annexes, des outils en ligne de commande, des loisirs, des livres que j'ai lus et tout ce qui me passe par la tête. C'est un mélange aléatoire, et c'est tout l'intérêt d'avoir mon site web personnel où je peux faire ce que je veux.
+Quelques exemples :
 
-## Sur le Web
+- [Oh My Bash](https://github.com/ohmybash/oh-my-bash) : un framework, axé sur la communauté pour la gestion de votre configuration bash.
+- [zen-install](https://github.com/ARTSYS-H/zen-install) : un script pour installer le navigateur Zen.
 
-Si vous souhaitez me suivre ailleurs, voici une liste de mes profils sur le Web.
-Certains sont plus actifs que d'autres :
+## Ce Site
 
-- [GitHub](https://github.com/ARTSYS-H), c'est là que vous trouverez la plupart de mes projets.
-- [Reddit](https://www.reddit.com/user/Mr_ARTSYS), c'est là que je publie des mises à jour et des *[trucs](https://fr.wiktionary.org/wiki/truc)* occasionnellement.
+Ce site web est mon *blog personnel*. C’est un excellent moyen de rester en contact avec moi, car ma présence sur les réseaux sociaux est plutôt limitée. J’y écris principalement sur les sujets qui m’intéressent : informatique, électronique, littérature, cinéma, et tout ce qui me passe par la tête. C’est un mélange éclectique, et c’est justement ce qui fait tout l’intérêt de ce site.
+
+> « La liberté, c’est la liberté de dire que deux et deux font quatre. »  
+> 1984 – George Orwell
+
+## Ce qui m'importe
+
+J'apprécie les logiciels légers, intuitifs, bien définis et stables. Je privilégie les outils dont je peux appréhender le fonctionnement de bout en bout. Je suis particulièrement heureux lorsque je modifie du texte, que j'écris des scripts et que j'optimise mon environnement de travail.
+
+---
 
 #### Fun fact
 
 J'utilise le pseudonyme [Lugh][lugh] par affection pour la mythologie celtique, sans me comparer à un dieu.
 Le corbeau :black_bird:, est souvent utilisé comme symbole de Lugh. Il est généralement associé à la lumière, aux arts et à de multiples compétences.
-
-{{< typeit tag=h4 speed=50 lifeLike=true >}}
-Merci de votre visite et n'hésitez pas à me contacter pour toutes questions ou collaboration !
-{{< /typeit >}}
 
 [lugh]: https://mythopedia.com/topics/lugh/ 

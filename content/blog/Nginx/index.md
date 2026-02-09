@@ -2,7 +2,7 @@
 title: >-
   Nginx: Serveur de Fichier Statiques et Proxy pour Applications
   Node.js
-summary: 'Nginx (prononcé "engine-X") est un serveur web et un proxy inverse très perfomant, connu pour sa stabilité, sa riche pallete de fonctionnalités, sa configuration simple et sa faible consommation de ressources.'
+description: 'Nginx (prononcé "engine-X") est un serveur web et un proxy inverse très perfomant, connu pour sa stabilité, sa riche pallete de fonctionnalités, sa configuration simple et sa faible consommation de ressources.'
 tags:
     - server
 date: 2024-06-22 12:12:20
@@ -13,7 +13,7 @@ date: 2024-06-22 12:12:20
 
 Nginx (prononcé "engine-X") est un serveur web et un proxy inverse très perfomant, connu pour sa stabilité, sa riche pallete de fonctionnalités, sa configuration simple et sa faible consommation de ressources. Utilisé par de nombreux site web à grande échelle, Nginx est capable de gérer des milliers de connexions simultanées grâce à son architecture événementielle.
 
-![Logo de Nginx](/posts/Nginx/Nginx_logo.png "Logo de Nginx")
+![Logo de Nginx](Nginx_logo.png "Logo de Nginx")
 
 ## Pourquoi utiliser Nginx ?
 
@@ -134,7 +134,7 @@ Si vous rencontrez des problèmes, consultez les logs d'erreurs de Nginx (géné
 
 Voici un schéma illustrant comment Nginx agit en tant que proxy inverse pour une application Node.js:
 
-![reverse proxy](/posts/Nginx/reverse_proxy.png "Schéma de proxy inverse")
+![reverse proxy](reverse_proxy.png "Schéma de proxy inverse")
 
 ## Configuration de plusieurs serveurs Nginx
 

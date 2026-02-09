@@ -1,69 +1,72 @@
 # -- Site Configuration --
-# Refer to the theme docs for more details about each of these parameters.
-# https://blowfish.page/docs/getting-started/
+# -- hugo-bearblog template --
 
-theme = "blowfish" # UNCOMMENT THIS LINE
+# Base URL used when generating links to your pages
+# Set to the URL for your site
 baseURL = "https://lucashadey.com/"
-defaultContentLanguage = "fr"
 
-pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+# The name of this wonderful theme ;-).
+theme = 'hugo-bearblog'
 
+# Basic metadata configuration for your blog.
+title = "ᕕ( ᐛ )ᕗ Lucas Hadey"
+author = "Lucas Hadey"
+copyright = "Copyright © 2026, Lucas Hadey."
+languageCode = "fr-FR"
+
+# Generate a nice robots.txt for SEO
 enableRobotsTXT = true
-summaryLength = 0
 
-buildDrafts = false
-buildFuture = false
-
+# Emoji in markdown
 enableEmoji = true
 
-# googleAnalytics = "G-XXXXXXXXX"
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
 
-[pagination]
-  pagerSize = 100
+[params]
+  # The "description" of your website. This is used in the meta data of your generated html.
+  description = "Passionné d’informatique bas niveau, d’administration système et de projets DIY, je partage ici mes retours d’expérience sur Linux, la programmation (C, Zig), l’électronique, et mes explorations créatives inspirées par la science-fiction, entre autres."
 
-[imaging]
-  anchor = 'Center'
+  # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+  # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
+  favicon = "favicon-32x32.png"
 
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  author = "authors"
-  series = "series"
+  # These "images" are used for the structured data templates. This will show up, when
+  # services like Twitter or Slack want to generate a preview of a link to your site.
+  # See https://gohugo.io/templates/internal#twitter-cards and
+  # https://gohugo.io/templates/internal#open-graph.
+  images = ["images/share.png"]
 
-[sitemap]
-  changefreq = 'daily'
-  filename = 'sitemap.xml'
-  priority = 0.5
+  # Another "title" :-). This one is used as the site_name on the Hugo's internal
+  # opengraph structured data template.
+  # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+  title = "Lucas Hadey"
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+  # This theme will, by default, inject a made-with-line at the bottom of the page.
+  # You can turn it off, but we would really appreciate if you don’t :-).
+  # hideMadeWithLine = true
 
-[related]
-  threshold = 0
-  toLower = false
+  # By default, if you want to read more than one blog post you have to always go
+  # back to the /blog page.
+  # By enabling this feature each blog post will have at the end a navigator
+  # enablePostNavigator = true
 
-    [[related.indices]]
-        name = "tags"
-        weight = 100
+  # By default, this theme displays dates with a format like "02 Jan, 2006", but
+  # you can customize it by setting the `dateFormat` param in your site's config
+  # file. See [Hugo's Format function docs](https://gohugo.io/functions/format/)
+  # for details. An example TOML config that uses [ISO
+  # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
+  # dateFormat = "2006-01-02"
 
-    [[related.indices]]
-        name = "categories"
-        weight = 100
-
-    [[related.indices]]
-        name = "series"
-        weight = 50
-
-    [[related.indices]]
-        name = "authors"
-        weight = 20
-
-    [[related.indices]]
-        name = "date"
-        weight = 10
-
-    [[related.indices]]
-      applyFilter = false
-      name = 'fragmentrefs'
-      type = 'fragments'
-      weight = 10
+# Configure markup highlighter to match "Bearblog" aesthetics, see
+# https://gohugo.io/configuration/markup/#highlight
+[markup]
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
