@@ -3,7 +3,7 @@
 
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://lucashadey.com/"
+baseURL = "https://blog.lucashadey.com/"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
