@@ -24,11 +24,6 @@ Un espace d’expérimentation pour la virtualisation et l’administration syst
 
 Je viens de plonger dans Ubik de Philip K. Dick, un roman culte qui mêle réalité déformée, perception subjective et une touche de mystère métaphysique. Ce livre, souvent décrit comme une œuvre majeure de la science-fiction psychologique, je ne pouvais pas passer à côté.
 
-### *2001 Nights* de Yukinobu Hoshino
+## Photographie
 
-C'est sans doute ma grande découverte récente, **2001 Nights** de Yukinobu Hoshino est une série de mangas qui explore des thèmes profonds et variés à travers des récits courts mais percutants. Chaque histoire est une véritable invitation au voyage, mêlant habilement science-fiction et réflexion philosophique. Ces lectures m'ont rappelé pourquoi j'aime tant ce genre, avec ses possibilités infinies et ses questionnements sur notre avenir.
-
-## Je regarde
-
-En ce moment, je me replonge avec enthousiasme dans Stargate, ma série préférée. Revoir cette série est pour moi une véritable madeleine de Proust, me rappelant des souvenirs d'épisodes captivants et d'intrigues passionnantes. J'apprécie particulièrement l'humour et l'histoire de SG-1, même si j'apprécie tout autant SGA ou SGU. Parallèlement, j'ai récemment découvert les films de [Satoshi Kon](https://letterboxd.com/director/satoshi-kon/), dont le style visuel unique et les thèmes profonds m'ont immédiatement captivé. "Paprika" est sans doute celui qui m'a le plus marqué, avec son exploration fascinante des rêves et de la réalité. Ces visionnages m'ont donné envie d'explorer davantage le cinéma d'animation et les œuvres qui repoussent les limites de la narration visuelle.
-
+J’ai récemment franchi le pas en acquérant un **Fujifilm X-T30**, mon premier appareil photo "sérieux". L’objectif ? Explorer la photographie sous un nouvel angle, avec un focus particulier sur les ambiances nocturnes et les rendus artistiques, loin du réalisme classique. Je compte partager mes essais, mes erreurs et mes coups de cœur ici, au fil de mes découvertes.
