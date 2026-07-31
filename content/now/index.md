@@ -1,6 +1,6 @@
 +++
 date = '2025-04-05T21:06:50+02:00'
-lastmod = '2025-05-17T12:22:28+02:00'
+lastmod = '2026-07-31T15:32:40+02:00'
 title = 'Now'
 menu = "main"
 weight = 30
@@ -14,9 +14,15 @@ Voici ce qui m'occupe en ce moment. [Quoi ?](https://nownownow.com/about)
 
 Un espace d’expérimentation pour la virtualisation et l’administration système. Mon cluster Proxmox, cœur de ce labo, m’accompagne dans l’apprentissage de technologies comme OpenMediaVault, Docker ou Home-Assistant. J’y explore aussi des idées créatives, comme un système de nommage inspiré de Stargate SG1 pour mes services, et j’y prépare des projets futurs. Un terrain de jeu technique, qui ne cesse d’évoluer.
 
+### Zig
+
+[Zig](https://ziglang.org/) est un langage de programmation compilé impératif polyvalent, typé statiquement, conçu par Andrew Kelley. 
+J'approfondie mes connaissance autour de ce langage, mon favoris actuellement. Son *Build-System* et tout le concept de *Compile-Time* pour le *metaprogramming* en fait une vrai alternative moderne au C et un langage plus abordable que Rust.
+
 ## J'écoute
 
-- **Macroblank**, un curateur très talentueux. (e.g. [ODESSA](https://www.youtube.com/watch?v=ePYXc2sgLGY), [CLOWNS](https://www.youtube.com/watch?v=3lfgsLvgTtE))
+- **Macroblank**, un curateur très talentueux. (e.g. [Macroblank - 美容師 COLLECTION 02](https://www.youtube.com/watch?v=71AmOjWFCq0))
+- Les classiques de la **Techno/Trance** des 90's - 2000.
 
 ## Je lis
 

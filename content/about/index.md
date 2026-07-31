@@ -22,7 +22,7 @@ Quelques exemples :
 
 ## Ce Site
 
-Ce site web est mon *blog personnel*. C’est un excellent moyen de rester en contact avec moi, car ma présence sur les réseaux sociaux est plutôt limitée. J’y écris principalement sur les sujets qui m’intéressent : informatique, électronique, littérature, cinéma, et tout ce qui me passe par la tête. C’est un mélange éclectique, et c’est justement ce qui fait tout l’intérêt de ce site.
+Ce site web est mon *blog personnel*. C’est un excellent moyen de rester en contact avec moi, car ma présence sur les réseaux sociaux est plutôt limitée. J’y écris principalement sur les sujets qui m’intéressent : informatique, électronique, littérature, cinéma, photographie et tout ce qui me passe par la tête. C’est un mélange éclectique, et c’est justement ce qui fait tout l’intérêt de ce site.
 
 > « La liberté, c’est la liberté de dire que deux et deux font quatre. »  
 > 1984 – George Orwell
@@ -38,4 +38,4 @@ J'apprécie les logiciels légers, intuitifs, bien définis et stables. Je privi
 J'utilise le pseudonyme [Lugh][lugh] par affection pour la mythologie celtique, sans me comparer à un dieu.
 Le corbeau :black_bird:, est souvent utilisé comme symbole de Lugh. Il est généralement associé à la lumière, aux arts et à de multiples compétences.
 
-[lugh]: https://mythopedia.com/topics/lugh/ 
+[lugh]: https://en.wikipedia.org/wiki/Lugh 

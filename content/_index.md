@@ -16,8 +16,6 @@ Ce site web est mon *blog personnel*. Vous pourrez, y trouver mes posts, ce que 
 
 ---
 
-Je monte actuellement mon homelab (Proxmox, Docker, Kubernetes, etc.) et prépare une série d’articles pour partager mes retours d’expérience, mes configurations et mes astuces.
-
 **Merci de votre visite !**
 
 Je vous :vulcan_salute:.
