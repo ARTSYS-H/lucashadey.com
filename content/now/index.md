@@ -3,18 +3,20 @@ date = '2025-04-05T21:06:50+02:00'
 lastmod = '2026-07-31T15:32:40+02:00'
 title = 'Now'
 menu = "main"
-weight = 30
+weight = 10
 +++
 
-Voici ce qui m'occupe en ce moment. [Quoi ?](https://nownownow.com/about)
+# Ce que je fais en ce moment
 
-## Je travaille sur
+{{< details summary="Qu'est-ce que c'est ?">}}
+Ici, je garde une liste à jour des choses sur lesquelles je me concentre et de ce que je fais. Pensez-y comme une page plus pertinente et intéressante « À propos ». Inspiré par [nownownow.com](https://nownownow.com/about).
+{{< /details >}}
 
-### Mon HomeLab
+## Mon HomeLab
 
 Un espace d’expérimentation pour la virtualisation et l’administration système. Mon cluster Proxmox, cœur de ce labo, m’accompagne dans l’apprentissage de technologies comme OpenMediaVault, Docker ou Home-Assistant.
 
-### Zig
+## Zig
 
 [Zig](https://ziglang.org/) est un langage de programmation compilé impératif polyvalent, typé statiquement, conçu par Andrew Kelley. 
 J'approfondie mes connaissance autour de ce langage, mon favoris actuellement. Son *Build-System* et tout le concept de *Compile-Time* pour le *metaprogramming* en fait une vrai alternative moderne au C et un langage plus abordable que Rust.
