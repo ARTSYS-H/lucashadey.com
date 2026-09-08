@@ -8,13 +8,13 @@ weight = 1
 
 ### J'écris sur l'informatique, je code, et je photographie le monde.
 
-Moi c'est Lucas, [Lugh][lugh] sur le Web, j'ai {{< age date="1998-04-30" >}} ans.
-
 {{< figure
   src="/images/author/lucas.jpg"
   alt="Une photographie de Moi"
   width="85%"
 >}}
+
+Moi c'est Lucas, [Lugh][lugh] sur le Web, j'ai {{< age date="1998-04-30" >}} ans.
 
 Je suis programmeur amateur, utilisateur Linux, passionné d'informatique et électronique. J'écris sur les sujets qui m'intéressent.
 Pour un aperçu de mes activités actuelles, consultez ma page [Now](/now).
