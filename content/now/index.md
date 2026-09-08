@@ -12,7 +12,7 @@ Voici ce qui m'occupe en ce moment. [Quoi ?](https://nownownow.com/about)
 
 ### Mon HomeLab
 
-Un espace d’expérimentation pour la virtualisation et l’administration système. Mon cluster Proxmox, cœur de ce labo, m’accompagne dans l’apprentissage de technologies comme OpenMediaVault, Docker ou Home-Assistant. J’y explore aussi des idées créatives, comme un système de nommage inspiré de Stargate SG1 pour mes services, et j’y prépare des projets futurs. Un terrain de jeu technique, qui ne cesse d’évoluer.
+Un espace d’expérimentation pour la virtualisation et l’administration système. Mon cluster Proxmox, cœur de ce labo, m’accompagne dans l’apprentissage de technologies comme OpenMediaVault, Docker ou Home-Assistant.
 
 ### Zig
 
