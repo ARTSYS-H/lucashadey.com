@@ -1,6 +1,6 @@
 +++
 date = '2025-04-05T21:06:50+02:00'
-lastmod = '2026-07-31T15:32:40+02:00'
+lastmod = '2026-09-29T13:50:22+02:00'
 title = 'Now'
 menu = "main"
 weight = 10
@@ -11,6 +11,8 @@ weight = 10
 {{< details summary="Qu'est-ce que c'est ?">}}
 Ici, je garde une liste à jour des choses sur lesquelles je me concentre et de ce que je fais. Pensez-y comme une page plus pertinente et intéressante « À propos ». Inspiré par [nownownow.com](https://nownownow.com/about).
 {{< /details >}}
+
+{{< lastmod >}}
 
 ## Zig
 
